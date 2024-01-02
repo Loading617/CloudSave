@@ -1,2 +1,2 @@
 # CloudDown
-A SoundCloud Downloader
+A SoundCloud Downloader and Audiomack Downloader
