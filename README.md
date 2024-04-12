@@ -1,2 +1,2 @@
 # CloudSave
-SoundCloud Downloader for SoundCloud
+SoundCloud Saver for SoundCloud
